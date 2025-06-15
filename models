@@ -1,0 +1,3 @@
+<script>start("/Users/diptarupchakravorty/YOLOv11 Player Tracking/models/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("best.pt","best.pt",0,194958773,"186 MB",1749596582,"11/06/2025, 04:33:02");</script>
