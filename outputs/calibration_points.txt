@@ -1,0 +1,5 @@
+# Calibration Points (broadcast_video, tacticam_video)
+# Frame Number: 100
+
+broadcast_points = [[1743, 496], [1173, 621], [616, 747], [167, 857]]
+tacticam_points = [[404, 146], [171, 311], [8, 427], [91, 496]]
